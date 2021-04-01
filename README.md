@@ -1,5 +1,5 @@
 # plugin.video.itunes_podcasts
-XBMC Video-/Audio-Plugin to access Apple Itunes Podcasts
+XBMC Video-/Audio-Plugin to access Apple iTunes Podcasts
 
 # State of affairs
 absolutely minimal edits to get this to load/run/play existing favorites/bookmarks in Kodi 19 Matrix.
